@@ -1,1 +1,6 @@
+# 顺序图
+## 注册和登录顺序图：
+![avatar](../src/pictures/money_login_reg_sequence.png)
+## 修改个人信息业务顺序图：
+![avatar](../src/pictures/money_renew_info_sequence.png)
 
