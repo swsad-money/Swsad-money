@@ -14,7 +14,7 @@
   * 6.3、[State Model(状态模型)](/document/6_requirement_specification/6.3_State_Models.md)
   * 6.4、[Sequence and Package(功能模型)](/document/6_requirement_specification/6.4_Sequence_and_Package.md)
 
-* 7、Design(设计)
+* 7、[Design(设计)](https://github.com/swsad-money/Swsad-money/blob/master/document/7_design/7_design.md)
 
 * 8、生产规范与指南
 
