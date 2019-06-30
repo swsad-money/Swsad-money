@@ -4,7 +4,7 @@
 
 * 1、[About(项目规划)](/document/1_about.md)
 * 2、[Team Profile(团队组建)](/document/2_team_profile.md)
-* 3、[Investigation(项目前期调研)](/document/3_investigation.md)
+* 3、[Investigation(项目前期调研/竞品分析)](/document/3_investigation.md)
 * 4、[Vision(项目愿景)](/document/4_vision.md)
 * 5、[Product Backlog(产品特性)](/document/5_product_backlog.md)
 
