@@ -29,9 +29,9 @@
 * 9、[Software Design(软件设计文档)](/软件设计文档.md)
 
 * X1 meet_recording
-  * [meeting1(2019/01/01)](/Report/1.md)
-  * [meeting2(2019/02/02)](/Report/2.md)
-  * [meeting3(2019/03/03)](/Report/3.md)
+  * [meeting1(2019/04/01)](/document/meeting/meeting1.md)
+  * [meeting2(2019/05/10)](/document/meeting/meeting2.md)
+  * [meeting3(2019/06/20)](/document/meeting/meeting3.md)
 
 * X2 [KANBAN](https://github.com/orgs/swsad-money/projects)
 
