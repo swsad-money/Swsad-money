@@ -35,11 +35,10 @@
 
 * X2 [KANBAN](https://github.com/orgs/swsad-money/projects)
 
-* X3 Tech/Work Report
-  * [1634](/document/1.md)
+* X3 [Tech/Work Report](/README.md)
 
 * X4 Final Report
-  * [1634](/document/1.md)
+  * [16340292张伟波](/document/report/16340292张伟波.md)
   * [小组分工与贡献](/document/2.md)
 
 * X5 [产品演示](/演示视频.mp4)
