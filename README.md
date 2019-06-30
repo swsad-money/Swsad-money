@@ -14,7 +14,11 @@
   * 6.3、[State Model(状态模型)](/document/6_requirement_specification/6.3_State_Models.md)
   * 6.4、[Sequence and Package(功能模型)](/document/6_requirement_specification/6.4_Sequence_and_Package.md)
 
-* 7、[Design(设计)](https://github.com/swsad-money/Swsad-money/blob/master/document/7_design/7_design.md)
+* 7、Design(设计)
+  * 7.1、[UI Design(UI设计)](/document/7_design/7.1_ui_design.md)
+  * 7.2、[Database Design(数据库设计)](/document/7_design/7.2_database_design.md)
+  * 7.3、[API Design(API设计)](/document/7_design/7.3_API_design.md)
+  * 7.4、[SoftWare Architecture(软件架构)](/document/7_design/7.4_softWare_architecture.md)
 
 * 8、生产规范与指南
    * 8.1、[代码规范](https://github.com/swsad-money/Swsad-money/blob/master/document/8_Specifications_and_guidelines/8.1_code_style.md)
