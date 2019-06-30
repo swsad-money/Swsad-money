@@ -21,10 +21,10 @@
   * 7.4、[SoftWare Architecture(软件架构)](/document/7_design/7.4_softWare_architecture.md)
 
 * 8、生产规范与指南
-   * 8.1、[代码规范](/document/8_Specifications_and_guidelines/8.1_code_style.md)
-   * 8.2、[设计规范](/document/8_Specifications_and_guidelines/8.2_tech_overview.md)
-   * 8.3、[架构设计](/document/8_Specifications_and_guidelines/8.3_mapping_framework_guidelines.md)
-   * 8.4、[部署说明](/document/8_Specifications_and_guidelines/8.4_execution.md)
+   * 8.1、[代码规范](/document/8_Specifications_and_guidelines/8.1_coding_standard.md)
+   * 8.2、[设计规范](/document/8_Specifications_and_guidelines/8.2_RESTful_api_design_standard.md)
+   * 8.3、[架构设计](/document/8_Specifications_and_guidelines/8.3_architecture_design_standard.md)
+   * 8.4、[部署说明](/document/8_Specifications_and_guidelines/8.4_guide.md)
 
 * 9、[Software Design(软件设计文档)](/软件设计文档.md)
 
