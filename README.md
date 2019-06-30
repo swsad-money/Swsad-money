@@ -17,6 +17,10 @@
 * 7、[Design(设计)](https://github.com/swsad-money/Swsad-money/blob/master/document/7_design/7_design.md)
 
 * 8、生产规范与指南
+   * 8.1、[代码规范](https://github.com/swsad-money/Swsad-money/blob/master/document/8_Specifications_and_guidelines/8.1_code_style.md)
+   * 8.2、[设计规范](https://github.com/swsad-money/Swsad-money/blob/master/document/8_Specifications_and_guidelines/8.2_tech_overview.md)
+   * 8.3、[架构设计，到应用程序框架映射框架映射指南](https://github.com/swsad-money/Swsad-money/blob/master/document/8_Specifications_and_guidelines/8.3_mapping_framework_guidelines.md)
+   * 8.4、[部署说明](https://github.com/swsad-money/Swsad-money/blob/master/document/8_Specifications_and_guidelines/8.4_execution.md)
 
 * 9、[Software Design(软件设计文档)](/软件设计文档.md)
 
